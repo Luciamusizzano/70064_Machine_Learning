@@ -1,0 +1,5 @@
+complaints_training.csv
+complaints_modeltesting100.csv
+__pycache__/
+*.pyc
+.vscode/
